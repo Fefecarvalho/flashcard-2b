@@ -2,6 +2,10 @@ body{
     background-color: pink;
 }
 
+#conteiner{
+    display: flex;
+}
+
 footer{
     background-color: blueviolet;
     color: white;
